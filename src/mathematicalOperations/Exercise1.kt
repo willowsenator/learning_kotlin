@@ -1,4 +1,4 @@
-package MathematicalOperations
+package mathematicalOperations
 fun main(){
     print("Enter quantity of items: ")
     var numItems = readLine()?.toInt()

@@ -1,4 +1,4 @@
-package MathematicalOperations
+package mathematicalOperations
 
 fun main(){
     println("Enter four numbers: ")

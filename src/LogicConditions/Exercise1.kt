@@ -1,4 +1,4 @@
-package LogicConditions
+package logicConditions
 
 fun main(){
     print("Enter a number: ")

@@ -1,4 +1,4 @@
-package BasicConcepts
+package basicConcepts
 
 fun main() {
     print("Enter a number: ")
