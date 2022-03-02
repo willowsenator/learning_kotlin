@@ -1,7 +1,7 @@
 package arrays
 
 fun main(){
-    val maxSize = 4;
+    val maxSize = 4
     val array1 = Array(maxSize){0}
     val array2 = Array(maxSize){0}
     val arrayResult = Array(maxSize){0}
