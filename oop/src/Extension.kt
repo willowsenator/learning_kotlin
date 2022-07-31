@@ -1,5 +1,3 @@
-package oop
-
 fun ArrayList<String>.intercambiar(index1:Int, index2:Int){
     val temporal = this[index1]
     this[index1] = this[index2]

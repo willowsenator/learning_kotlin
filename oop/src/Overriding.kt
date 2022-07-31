@@ -1,11 +1,9 @@
-package oop
-
 open class Alien{
     open fun greetings(){
         println("Hi human")
     }
 }
-class Mars:Alien(){
+class Mars: Alien(){
     override fun greetings(){
         println("Hi human. I am a Martian.")
     }

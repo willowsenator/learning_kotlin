@@ -1,5 +1,3 @@
-package oop
-
 class Numbers<T>(number:T) {
     init {
         println(number)

@@ -1,5 +1,3 @@
-package oop
-
 class Person(){
     private var name:String? = null
     private var age:Int? = null

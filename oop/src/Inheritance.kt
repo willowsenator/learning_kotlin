@@ -1,5 +1,3 @@
-package oop
-
 class Human {
     fun greetings(){
         println("Hi everybody")
