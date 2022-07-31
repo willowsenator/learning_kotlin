@@ -97,3 +97,11 @@ fabric.properties
 hs_err_pid*
 
 *.iml
+/.idea/codeStyles/codeStyleConfig.xml
+/.idea/git_toolbox_prj.xml
+/.idea/kotlinc.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/codeStyles/Project.xml
+/.idea/saveactions_settings.xml
+/.idea/vcs.xml
